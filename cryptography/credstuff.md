@@ -1,7 +1,7 @@
 # Basic Mod 1
 
 Tags: `Category: Cryptography`\
-Author: Will Hong / LT 'SYREAL' JONES
+Author: Will Hong / Luke "syreal" Jones
 
 ## Description
 
