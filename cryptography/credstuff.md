@@ -1,4 +1,4 @@
-# Basic Mod 1
+# Credstuff
 
 Tags: `Category: Cryptography`\
 Author: Will Hong / Luke "syreal" Jones

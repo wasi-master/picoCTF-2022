@@ -1,4 +1,4 @@
-# Basic Mod 1
+# Basic Mod 2
 
 Tags: `Category: Cryptography`\
 Author: Will Hong

@@ -1,4 +1,4 @@
-# Basic Mod 1
+# Morse Code
 
 Tags: `Category: Cryptography`, `morse_code`\
 Author: Will Hong

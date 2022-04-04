@@ -1,4 +1,4 @@
-# Basic Mod 1
+# Rail Fence
 
 Tags: `Category: Cryptography`\
 Author: Will Hong
